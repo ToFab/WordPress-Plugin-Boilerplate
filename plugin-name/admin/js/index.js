@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hello world"),console.log("test module for the admin ts files")})();

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "allowJs": true
+  },
+  "include": [
+    "plugin-name/admin/ts/**/*",
+    "plugin-name/public/ts/**/*",
+
+  ]
+}

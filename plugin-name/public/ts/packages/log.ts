@@ -1,0 +1,1 @@
+console.error("erro in public ts file")
